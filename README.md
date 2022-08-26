@@ -1,6 +1,5 @@
 # **Final Project Report**
 ## **Names: Nikhil Dange & Ryan Irwandy**
-## **PIDs: A16399170 & A16650752**
 
 # Lab Overview:
 This lab was the final challenge presented in ECE 16 for Spring 2022. Throughout this lab, we put together everything we had learned all quarter, and moved away from building purely a smart-watch, by applying these concepts to other applications.
