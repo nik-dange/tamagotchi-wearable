@@ -69,7 +69,7 @@ if __name__ == "__main__":
           today=datetime.now()
           #today1=today.strftime("%m/%d/%Y")
           timeNow=today.strftime("%H:%M:%S")
-          owm = OWM('3fb35009e6e89e5e3bc654ec5d6c94fc').weather_manager()
+          owm = OWM('API KEY HERE').weather_manager()
           #obtaining the string for temperature
           observation = owm.weather_at_place('San Diego,CA,US').weather.temperature('fahrenheit')
           #apparently, the temperature is returned as a dictionary type
